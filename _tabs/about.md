@@ -7,7 +7,8 @@ order: 4
 
 🔍 Current Role:
 
-- Data Science Intern at Pendulum: An AI company providing innovative solutions across various industries.
+- Software Development Engineer Intern at Traini
+- Data Science Intern at Pendulum
 
 🎓 Educational Background:
 

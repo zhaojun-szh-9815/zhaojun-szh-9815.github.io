@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://zhaojun-szh.github.io"
+url: "https://zhaojun-szh-9815.github.io"
 
 github:
   username: zhaojun-szh-9815 # change to your github username
@@ -53,7 +53,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-L8B6X38SVE
 
 # Prefer color scheme setting.
 #
