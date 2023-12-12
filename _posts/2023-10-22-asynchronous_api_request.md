@@ -5,8 +5,6 @@ categories: [Work Daily, Data Science]
 tags: [python, openai, gpt, api, asynchronous, parallel]     # TAG names should always be lowercase
 ---
 
-# Asynchronous OpenAI API Request
-
 ## Setup
 
 - Python environment

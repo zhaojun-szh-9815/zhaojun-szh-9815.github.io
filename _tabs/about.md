@@ -12,9 +12,9 @@ order: 4
 
 🎓 Educational Background:
 
-- Master’s Degree in Electrical and Computer Engineering from Boston University
+- Master's Degree in Electrical and Computer Engineering from Boston University
 
-- Dual Bachelor’s Degree in Computer Science from St. Francis Xavier University and Changzhou University
+- Dual Bachelor's Degree in Computer Science from St. Francis Xavier University and Changzhou University
 
 💼 Professional Experience:
 
