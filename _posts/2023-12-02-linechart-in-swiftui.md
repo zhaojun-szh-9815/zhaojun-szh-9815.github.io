@@ -2,7 +2,7 @@
 title: LineChart in SwiftUI
 date: 2023-12-02 18:00:00 -0500
 categories: [Work Daily, Development]
-tags: [swift, visualization]     # TAG names should always be lowercase
+tags: [swift]     # TAG names should always be lowercase
 ---
 
 ## Result

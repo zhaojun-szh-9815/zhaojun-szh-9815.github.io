@@ -8,7 +8,6 @@ order: 4
 🔍 Current Role:
 
 - Software Development Engineer Intern at Traini
-- Data Science Intern at Pendulum
 
 🎓 Educational Background:
 
@@ -18,6 +17,7 @@ order: 4
 
 💼 Professional Experience:
 
+- Data Science Intern at Pendulum Corporation
 - Internship at Huagong Tech
 
 🌟 Professional Interests:
@@ -26,7 +26,16 @@ order: 4
 - Driven to tackle diverse challenges and explore cutting-edge technologies.
 - Committed to integrating the latest advancements in technology into my work.
 
-🎮 Personal Interests:
+<!-- 🎮 Personal Interests:
 
 - Video Games
-- Anime
+- Anime -->
+
+<p>📄 Resume:</p>
+<iframe
+  src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.usercontent.google.com/download?id=1EsePPkaGseB8lzJ1rvlKabJqWevAPY4j"
+  frameBorder="0"
+  scrolling="auto"
+  height="1100px"
+  width="100%"
+></iframe>
